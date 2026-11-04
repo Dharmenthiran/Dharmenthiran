@@ -2,7 +2,7 @@
 
 ### Backend & Full-Stack Developer | Software Engineer
 
-I'm a Software Developer with **3 years of experience** building real-world software applications, backend services, and API-driven solutions.
+I'm a Software Developer with building real-world software applications, backend services, and API-driven solutions.
 
 I enjoy designing scalable backend systems, developing REST APIs, integrating databases, and building practical applications that solve real-world problems.
 
